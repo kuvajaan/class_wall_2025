@@ -1,7 +1,7 @@
-# [user name]
+# [Liisa]
 
-**My favorite tech:** (e.g. a programming language, gadget or technology)
+**My favorite tech:** is my Iphone and Camera:)
 
-**My goal for this course:** (e.g. to learn Linux, see a robot)
+**My goal for this course:** develop my skills.
 
-**A fun fact:** (e.g. I once solved the rubrik's cube under 60 seconds, I was once reincarnated as a slime)
+**A fun fact:** My favourite animals are pandas and dogs.
