@@ -1,4 +1,4 @@
-# [Liisa]
+# Liisa
 
 **My favorite tech:** is my Iphone and Camera:)
 
