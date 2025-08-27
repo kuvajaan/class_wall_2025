@@ -1,4 +1,4 @@
-# [Juelun Wang]
+# Juelun Wang
 
 **My favorite tech:** plain HTML
 
