@@ -1,7 +1,7 @@
-# [user name]
+# [Juelun Wang]
 
-**My favorite tech:** (e.g. a programming language, gadget or technology)
+**My favorite tech:** plain HTML
 
-**My goal for this course:** (e.g. to learn Linux, see a robot)
+**My goal for this course:** learn Linux
 
-**A fun fact:** (e.g. I once solved the rubrik's cube under 60 seconds, I was once reincarnated as a slime)
+**A fun fact:** I don't remember
