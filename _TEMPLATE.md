@@ -1,4 +1,4 @@
-# [user name]
+# [Sergei Kostin]
 
 **Im interested in AI:** (e.g. a programming language, gadget or technology)
 
