@@ -1,7 +1,7 @@
 # [iopt0p]
 
-**My favorite tech:** java
+**My favorite tech:** now github
 
-**My goal for this course:** to learn more about basic tools
+**My goal for this course:** basic understanding of the new tools
 
-**A fun fact:** I am able to solve an interesting rubik's cube called 4x4 axis cube
+**A fun fact:** studied environmental science before
