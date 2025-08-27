@@ -1,7 +1,7 @@
-# [iopt0p]
+# omar-allouch
 
-**My favorite tech:** java
+Learning different coding languages
 
-**My goal for this course:** to learn more about basic tools
+learning the different coding languages and learn robotics and be more familiar with technology in general
 
-**A fun fact:** I am able to solve an interesting rubik's cube called 4x4 axis cube
+I like playing basketball i would consider myself pretty good and im a fast learner
