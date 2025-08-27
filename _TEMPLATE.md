@@ -4,4 +4,4 @@
 
 **My goal for this course:**to go more in depth about programming and everything else that I've learned a bit in my previous studies. 
 
-**A fun fact:** I am able to solve an interesting rubik's cube called 4x4 axis cube - I am not. 
+**A fun fact:** I have an obession with teaching myself different languages 
