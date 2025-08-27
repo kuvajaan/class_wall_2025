@@ -1,7 +1,7 @@
 # Hello! Here is Loc Mathias Nguyen- Information Technology Student From Arcada UAS
 
 **My favorite tech:** (e.g. a programming language, gadget or technology) 
-IOT edge
+IOT edge and al generative
 **My goal for this course:** (e.g. to learn Linux, see a robot)
 Mastering the linnux technology 
 
