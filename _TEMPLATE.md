@@ -1,7 +1,7 @@
 # [iopt0p]
 
-**My favorite tech:** java
+**My favorite tech:** python
 
-**My goal for this course:** to learn more about basic tools
+**My goal for this course:** to learn more about coding in details and develop my career in this field
 
-**A fun fact:** I am able to solve an interesting rubik's cube called 4x4 axis cube
+**A fun fact:** I am able learn fast due to my high interest. 
